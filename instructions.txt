@@ -1,0 +1,10 @@
+Create Operation with MongoDb in MoleculerJs
+
+
+Teacher
+
+	http://localhost:3000/api/teacher/create
+
+Student
+
+	http://localhost:3000/api/student/create
